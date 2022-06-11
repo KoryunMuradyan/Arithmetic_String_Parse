@@ -38,7 +38,7 @@ int main()
 
 	/* 
 	   the method call below prints the expression in any parsed stage. 
-	   manipulate with stages commenting or uncommenting the member functions in class constructor 
+	   It's possible manipulate with stages commenting or uncommenting the member function calls in class constructor 
 	   not touching first two lines
 	*/
 	//std::cout << expression << std::endl;
