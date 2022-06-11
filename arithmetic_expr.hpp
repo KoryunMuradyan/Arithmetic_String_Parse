@@ -101,7 +101,7 @@ void arithmetic_expr::mult_div_sum_sub()
 	}
 }
 
-// below are string parsing and supporting the parsing functions
+// below are string parsing and supporting the parsing process functions
 void arithmetic_expr::resolve_str(const std::string& arg_str)
 {
 	int counter = 0;
